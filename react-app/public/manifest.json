@@ -1,0 +1,9 @@
+{
+   "short_name": "cdn.mxgnus.de",
+   "name": "cdn.mxgnus.de",
+   "icons": [],
+   "start_url": ".",
+   "display": "standalone",
+   "theme_color": "#000000",
+   "background_color": "#ffffff"
+}
