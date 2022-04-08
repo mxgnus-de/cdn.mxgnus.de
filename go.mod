@@ -1,4 +1,4 @@
-module github.com/mxgnus-de/cdn.mxgnus.de
+module github.com/mxgnus-de/simple-file-upload
 
 go 1.17
 
